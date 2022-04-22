@@ -1,0 +1,3942 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-20554",
+    "Address": "3275 Desaix Blvd",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=3HXYH1",
+    "Operator Name": "Keith James",
+    "Operator Permit Number": "",
+    "License Holder Name": "Kj27 LLC",
+    "Application Date": "12/19/2018",
+    "Issue_Date": "03/08/2019",
+    "Reference Code": "3HXYH1",
+    "X": "3677702.56",
+    "Y": "543698.48",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0796405259447",
+     "29.98909708425317"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-04100",
+    "Address": "3929 St Claude Ave",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=PQCRE4",
+    "Operator Name": "Frank Mohre",
+    "Operator Permit Number": "",
+    "License Holder Name": "Frank Mohre",
+    "Application Date": "03/02/2018",
+    "Issue_Date": "04/01/2018",
+    "Reference Code": "PQCRE4",
+    "X": "3691754.09",
+    "Y": "535427.48",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.03555197771695",
+     "29.965924564056483"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-09934",
+    "Address": "212 Loyola Ave Unit 508",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=3V387B",
+    "Operator Name": "Guest Experience Team",
+    "Operator Permit Number": "",
+    "License Holder Name": "Sonder USA, Inc.",
+    "Application Date": "05/11/2018",
+    "Issue_Date": "06/25/2018",
+    "Reference Code": "3V387B",
+    "X": "3679404.59471",
+    "Y": "530986.15629",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07470537263109",
+     "29.954091247717056"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-17247",
+    "Address": "7043 Magazine ST",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=SX2EH2",
+    "Operator Name": "Melanie Martin",
+    "Operator Permit Number": "",
+    "License Holder Name": "Melanie Martin",
+    "Application Date": "09/08/2017",
+    "Issue_Date": "12/05/2017",
+    "Reference Code": "SX2EH2",
+    "X": "3661037.74432",
+    "Y": "521127.26508",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.13302687374815",
+     "29.927524379248286"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07063",
+    "Address": "212 Loyola Ave Unit 1202",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=PQKGTY",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "PQKGTY",
+    "X": "3679413.22133",
+    "Y": "531059.50471",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07467558917678",
+     "29.954292670611093"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-04048",
+    "Address": "1420 Gallier St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=LA75EY",
+    "Operator Name": "Taryn Legvold",
+    "Operator Permit Number": "",
+    "License Holder Name": "Taryn Michelle B Legvold",
+    "Application Date": "03/06/2019",
+    "Issue_Date": "03/06/2019",
+    "Reference Code": "LA75EY",
+    "X": "3690745.99",
+    "Y": "536924.56",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.038682098694",
+     "29.97007236382787"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07060",
+    "Address": "212 Loyola Ave Unit 902",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=ZPZCBX",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "ZPZCBX",
+    "X": "3679401.95586",
+    "Y": "531029.21178",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07471221172109",
+     "29.954209715514192"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-06542",
+    "Address": "5411 S Galvez St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1TTGT8",
+    "Operator Name": "Dani Galloway",
+    "Operator Permit Number": "",
+    "License Holder Name": "Robert Galloway",
+    "Application Date": "04/04/2018",
+    "Issue_Date": "04/18/2018",
+    "Reference Code": "1TTGT8",
+    "X": "3668575.93",
+    "Y": "527386.89",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.10901945837524",
+     "29.944517057094195"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-21346",
+    "Address": "2616 N Villere ST",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=FYE558",
+    "Operator Name": "Jade Newman",
+    "Operator Permit Number": "",
+    "License Holder Name": "Marlon Jackson",
+    "Application Date": "12/10/2017",
+    "Issue_Date": "02/19/2018",
+    "Reference Code": "FYE558",
+    "X": "3687539.6838",
+    "Y": "537505.85127",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.04878733232454",
+     "29.971769933719766"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-09370",
+    "Address": "3425 Palmyra St",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "4",
+    "Guest Occupancy Limit": "8",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=36GQ25",
+    "Operator Name": "Viki Borisova",
+    "Operator Permit Number": "",
+    "License Holder Name": "Daisy Cochrane",
+    "Application Date": "05/05/2018",
+    "Issue_Date": "05/30/2018",
+    "Reference Code": "36GQ25",
+    "X": "3672492.82657",
+    "Y": "536344.33543",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.09634733617854",
+     "29.969031398186367"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 705",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=RUK8NU",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nancy Allen",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "RUK8NU",
+    "X": "3680499.95591",
+    "Y": "530507.91207",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07126329922907",
+     "29.95274310864164"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-14840",
+    "Address": "137 Carondelet St Unit 301",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=WKQPR7",
+    "Operator Name": "Guest Experience Team",
+    "Operator Permit Number": "",
+    "License Holder Name": "Sonder USA, Inc.",
+    "Application Date": "07/24/2018",
+    "Issue_Date": "09/24/2018",
+    "Reference Code": "WKQPR7",
+    "X": "3680657.9",
+    "Y": "530627.32",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07076042816988",
+     "29.95306665575653"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-09152",
+    "Address": "1234 Touro St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=2Y585X",
+    "Operator Name": "Marcus Smith",
+    "Operator Permit Number": "",
+    "License Holder Name": "Marcus Smith",
+    "Application Date": "05/22/2018",
+    "Issue_Date": "10/10/2018",
+    "Reference Code": "2Y585X",
+    "X": "3684107.5126",
+    "Y": "536901.43194",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.05964786279742",
+     "29.970213340942724"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07069",
+    "Address": "212 Loyola Ave Unit 1401",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=GA7T1V",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "GA7T1V",
+    "X": "3679421.8324",
+    "Y": "531077.49082",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07464777498731",
+     "29.954341866263466"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-15152",
+    "Address": "212 Loyola Ave Unit 510",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=FYBWGU",
+    "Operator Name": "Gordon Winters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Gordon Winters",
+    "Application Date": "07/19/2017",
+    "Issue_Date": "07/19/2017",
+    "Reference Code": "FYBWGU",
+    "X": "3679413.76136",
+    "Y": "530985.32295",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07467645696471",
+     "29.95408867944751"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-09650",
+    "Address": "800 Common St Unit 801",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=DBSA3D",
+    "Operator Name": "Jade Newman",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jade Newman",
+    "Application Date": "05/31/2017",
+    "Issue_Date": "07/05/2017",
+    "Reference Code": "DBSA3D",
+    "X": "3680465.66728",
+    "Y": "530475.92469",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07137267972188",
+     "29.95265619254475"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 707",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=FADJB7",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "stay Alfred, Inc.",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "FADJB7",
+    "X": "3680493.28",
+    "Y": "530490.19",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07128499509423",
+     "29.95269458110815"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-10847",
+    "Address": "212 Loyola Ave Unit 911",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=XVRA8U",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jesse Muse",
+    "Application Date": "05/20/2017",
+    "Issue_Date": "07/14/2017",
+    "Reference Code": "XVRA8U",
+    "X": "3679422.41568",
+    "Y": "531022.94565",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07464782515873",
+     "29.954191867803264"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 712",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=GKGHL6",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nancy Allen",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "GKGHL6",
+    "X": "3680479.24466",
+    "Y": "530456.82431",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07133047272652",
+     "29.952603261766132"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 912",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=SDHA2R",
+    "Operator Name": "INGRID GUIVAR",
+    "Operator Permit Number": "",
+    "License Holder Name": "INGRID GUIVAR",
+    "Application Date": "05/16/2017",
+    "Issue_Date": "",
+    "Reference Code": "SDHA2R",
+    "X": "3680469.0809",
+    "Y": "530482.16465",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07136168405111",
+     "29.952673246955342"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-11733",
+    "Address": "800 Common St Unit 506",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=4QQUEQ",
+    "Operator Name": "Jesse Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jesse Muse",
+    "Application Date": "05/30/2017",
+    "Issue_Date": "07/14/2017",
+    "Reference Code": "4QQUEQ",
+    "X": "3680504.55842",
+    "Y": "530457.97493",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0712505033189",
+     "29.9526056589526"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-08577",
+    "Address": "800 Common St Unit 411",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=YVU4J1",
+    "Operator Name": "Jade Newman",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jade Newman",
+    "Application Date": "04/27/2017",
+    "Issue_Date": "07/07/2017",
+    "Reference Code": "YVU4J1",
+    "X": "3680525.00911",
+    "Y": "530474.10426",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07118536831352",
+     "29.95264938978439"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-20022",
+    "Address": "1801 Dante St",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=RNV8AY",
+    "Operator Name": "Evan Wolf",
+    "Operator Permit Number": "",
+    "License Holder Name": "Evan C Wolf",
+    "Application Date": "11/07/2017",
+    "Issue_Date": "11/11/2017",
+    "Reference Code": "RNV8AY",
+    "X": "3662908.85255",
+    "Y": "530438.85715",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.12681070340662",
+     "29.95307426707442"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 710",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=4YYAYF",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "stay Alfred, Inc.",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "4YYAYF",
+    "X": "3680485.46",
+    "Y": "530472.24",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07131031138472",
+     "29.95264546148852"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-18873",
+    "Address": "3925 Banks St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=Z7N8D1",
+    "Operator Name": "Ryan Noland",
+    "Operator Permit Number": "",
+    "License Holder Name": "Emily Noland",
+    "Application Date": "10/31/2018",
+    "Issue_Date": "11/14/2018",
+    "Reference Code": "Z7N8D1",
+    "X": "3670915.69799",
+    "Y": "537085.02042",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.10130287736855",
+     "29.971114753947404"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 601",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=EU6BWA",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jared Roussell",
+    "Application Date": "05/08/2017",
+    "Issue_Date": "",
+    "Reference Code": "EU6BWA",
+    "X": "3680532.23033",
+    "Y": "530519.38027",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0711609922063",
+     "29.95277366482864"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07058",
+    "Address": "800 Common St Unit 306",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=M7CKH7",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jesse Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "M7CKH7",
+    "X": "3680543.17403",
+    "Y": "530495.25715",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07112727595376",
+     "29.95270700291368"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-08053",
+    "Address": "212 Loyola Ave Unit 908",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=E6FMFE",
+    "Operator Name": "Renior Pierre",
+    "Operator Permit Number": "",
+    "License Holder Name": "Renior Pierre",
+    "Application Date": "04/18/2018",
+    "Issue_Date": "04/18/2018",
+    "Reference Code": "E6FMFE",
+    "X": "3679424.82691",
+    "Y": "531022.8882",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07464021345534",
+     "29.954191637004737"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "629 Louisa St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=EU6UKH",
+    "Operator Name": "Daniel Burton",
+    "Operator Permit Number": "",
+    "License Holder Name": "Daniel Burton",
+    "Application Date": "04/11/2018",
+    "Issue_Date": "",
+    "Reference Code": "EU6UKH",
+    "X": "3689236.16207",
+    "Y": "534229.37159",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.04354608298438",
+     "29.96270835886961"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-04397",
+    "Address": "1446 Camp St Unit 202",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=YGD2TK",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Hector Contreras",
+    "Application Date": "03/19/2017",
+    "Issue_Date": "04/17/2017",
+    "Reference Code": "YGD2TK",
+    "X": "3679915.15509",
+    "Y": "524182.47404",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07332946695635",
+     "29.93536796142678"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 504",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1KDWX6",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Troy Lagrange",
+    "Application Date": "05/24/2017",
+    "Issue_Date": "",
+    "Reference Code": "1KDWX6",
+    "X": "3680510.68933",
+    "Y": "530469.71233",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07123073646292",
+     "29.952637747162512"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1020 Fern St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=L5QGH4",
+    "Operator Name": "Lucy Sytov",
+    "Operator Permit Number": "",
+    "License Holder Name": "Lucy Sytov",
+    "Application Date": "03/29/2018",
+    "Issue_Date": "",
+    "Reference Code": "L5QGH4",
+    "X": "3662150.4457",
+    "Y": "527495.05683",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.1293031061128",
+     "29.94500169692384"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-00876",
+    "Address": "4931 S Claiborne Ave",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=T85XAQ",
+    "Operator Name": "Justin Duncan",
+    "Operator Permit Number": "",
+    "License Holder Name": "Justin J Duncan",
+    "Application Date": "01/14/2019",
+    "Issue_Date": "01/14/2019",
+    "Reference Code": "T85XAQ",
+    "X": "3669016.77",
+    "Y": "526054.55",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.10767258954384",
+     "29.940840594551158"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "734 Jefferson Ave",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "5",
+    "Guest Occupancy Limit": "10",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=K3PME6",
+    "Operator Name": "KIRK TALAVERA",
+    "Operator Permit Number": "19OSTR-26118",
+    "License Holder Name": "KIRK TALAVERA",
+    "Application Date": "08/03/2021",
+    "Issue_Date": "",
+    "Reference Code": "K3PME6",
+    "X": "3666512.67",
+    "Y": "518165.68",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.1158431447022",
+     "29.919222118838093"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07053",
+    "Address": "800 Common St Unit 506",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=VTWTXQ",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "VTWTXQ",
+    "X": "3680505.09339",
+    "Y": "530458.08045",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07124881045601",
+     "29.952605932894844"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-04098",
+    "Address": "1114 Bartholomew St",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=UTCWBN",
+    "Operator Name": "Frank Mohre",
+    "Operator Permit Number": "",
+    "License Holder Name": "Frank Mohre",
+    "Application Date": "03/02/2018",
+    "Issue_Date": "04/01/2018",
+    "Reference Code": "UTCWBN",
+    "X": "3691823.8",
+    "Y": "535507.5",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.03532897390585",
+     "29.96614241975745"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 709",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=MT7YMH",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nancy Allen",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "MT7YMH",
+    "X": "3680491.67141",
+    "Y": "530484.89957",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07129025828644",
+     "29.952680082925895"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-13212",
+    "Address": "1022 Mandeville St",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=8NKM2V",
+    "Operator Name": "don williams",
+    "Operator Permit Number": "",
+    "License Holder Name": "1022 Mandeville LLC",
+    "Application Date": "07/08/2019",
+    "Issue_Date": "07/08/2019",
+    "Reference Code": "8NKM2V",
+    "X": "3685759.99",
+    "Y": "536196.51",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.05445402193571",
+     "29.968224440412047"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-20722",
+    "Address": "1201 Jospeh",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=AS1QU5",
+    "Operator Name": "Barrett Thrasher",
+    "Operator Permit Number": "",
+    "License Holder Name": "Richard Mankinen",
+    "Application Date": "11/11/2018",
+    "Issue_Date": "02/08/2019",
+    "Reference Code": "AS1QU5",
+    "X": "3666455.56",
+    "Y": "520239.04",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.1159538811386",
+     "29.924924875386672"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1018 Saint Ferdinand St",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=XP3D5S",
+    "Operator Name": "Viki Borisova",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jarred Colli",
+    "Application Date": "05/05/2018",
+    "Issue_Date": "",
+    "Reference Code": "XP3D5S",
+    "X": "3687617.34005",
+    "Y": "536049.55507",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.04859364971134",
+     "29.96776323459077"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-15737",
+    "Address": "2503 St Charles Ave",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1MNCHZ",
+    "Operator Name": "Candy Mers",
+    "Operator Permit Number": "",
+    "License Holder Name": "Candy Mers",
+    "Application Date": "08/03/2017",
+    "Issue_Date": "08/04/2017",
+    "Reference Code": "1MNCHZ",
+    "X": "3676596.84962",
+    "Y": "523076.44518",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.08384345202256",
+     "29.932426659795276"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-15153",
+    "Address": "212 Loyola Ave Unit 603",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=8URMJK",
+    "Operator Name": "Gordon Winters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Gordon Winters",
+    "Application Date": "07/19/2017",
+    "Issue_Date": "07/19/2017",
+    "Reference Code": "8URMJK",
+    "X": "3679393.30668",
+    "Y": "530999.77548",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07474054330602",
+     "29.95412903683235"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-06932",
+    "Address": "212 Loyola Ave Unit 1311",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=QNXNSV",
+    "Operator Name": "Jade Newman",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jade Newman",
+    "Application Date": "04/09/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "QNXNSV",
+    "X": "3679374.08296",
+    "Y": "531003.24538",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07480112371594",
+     "29.954139158476046"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 701",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=Y4XZ1K",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nancy Allen",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "Y4XZ1K",
+    "X": "3680509.91908",
+    "Y": "530529.07087",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07123110411766",
+     "29.95280098646043"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-06441",
+    "Address": "2311 St Thomas St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=6P3Y15",
+    "Operator Name": "Jordan Webb",
+    "Operator Permit Number": "",
+    "License Holder Name": "Dowal Barrett",
+    "Application Date": "04/04/2018",
+    "Issue_Date": "05/21/2018",
+    "Reference Code": "6P3Y15",
+    "X": "3679543.95055",
+    "Y": "520347.78354",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07463434587682",
+     "29.924835038933264"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-17182",
+    "Address": "1124 N Johnson ST",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=K1ZH2K",
+    "Operator Name": "Sharla Martin",
+    "Operator Permit Number": "",
+    "License Holder Name": "Sharla Martin",
+    "Application Date": "09/07/2017",
+    "Issue_Date": "09/11/2017",
+    "Reference Code": "K1ZH2K",
+    "X": "3679712.65711",
+    "Y": "536820.38593",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07353009275216",
+     "29.970124086662036"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-10297",
+    "Address": "4437 Baronne St",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=QXA7LK",
+    "Operator Name": "Eric",
+    "Operator Permit Number": "",
+    "License Holder Name": "Richard Bendana",
+    "Application Date": "05/04/2018",
+    "Issue_Date": "05/30/2018",
+    "Reference Code": "QXA7LK",
+    "X": "3670424.89",
+    "Y": "521600.37",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.10337784444188",
+     "29.928551543529395"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1604 Frenchmen St",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=A64Y5Q",
+    "Operator Name": "Bianka LeBeouf",
+    "Operator Permit Number": "",
+    "License Holder Name": "ICM Investments",
+    "Application Date": "08/27/2018",
+    "Issue_Date": "",
+    "Reference Code": "A64Y5Q",
+    "X": "3684403.76521",
+    "Y": "538175.19937",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.05866751768244",
+     "29.973706700057495"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-06585",
+    "Address": "1723 Pauger St",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=5QY886",
+    "Operator Name": "Alex",
+    "Operator Permit Number": "",
+    "License Holder Name": "Alex Yazdanov",
+    "Application Date": "04/04/2018",
+    "Issue_Date": "05/04/2018",
+    "Reference Code": "5QY886",
+    "X": "3683987.37",
+    "Y": "536053.52",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06005704134887",
+     "29.967885548403974"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07059",
+    "Address": "212 Loyola Ave Unit 205",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=XWCNY7",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "XWCNY7",
+    "X": "3679395.89992",
+    "Y": "530936.60621",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07473454581617",
+     "29.953955264291128"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 704",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=FCBCEY",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nancy Allen",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "FCBCEY",
+    "X": "3680502.48729",
+    "Y": "530514.12545",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07125509017322",
+     "29.952760116676416"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07068",
+    "Address": "212 Loyola Ave Unit 1201",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=BF8MTN",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "BF8MTN",
+    "X": "3679409.69352",
+    "Y": "531061.29639",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07468666645167",
+     "29.954297703680687"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-03779",
+    "Address": "1027 Crete St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=3RMHR2",
+    "Operator Name": "james  martin",
+    "Operator Permit Number": "",
+    "License Holder Name": "James Martin",
+    "Application Date": "02/26/2018",
+    "Issue_Date": "03/01/2018",
+    "Reference Code": "3RMHR2",
+    "X": "3677435.00462",
+    "Y": "538558.3746",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.08066315254848",
+     "29.974971620344984"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07037",
+    "Address": "212 Loyola Ave Unit 208",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1F3XUQ",
+    "Operator Name": "Jade Newman",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jade Newman",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "1F3XUQ",
+    "X": "3679415.2749",
+    "Y": "530931.18957",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07467355542992",
+     "29.95393978516842"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-05997",
+    "Address": "814 Hidalgo St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=7BTVYS",
+    "Operator Name": "Heather Griffith",
+    "Operator Permit Number": "",
+    "License Holder Name": "Heather Griffith",
+    "Application Date": "03/28/2018",
+    "Issue_Date": "04/17/2018",
+    "Reference Code": "7BTVYS",
+    "X": "3668884.33396",
+    "Y": "544018.62862",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.10748395442278",
+     "29.990239729261656"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-08094",
+    "Address": "212 Loyola Ave Unit 1210",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=P3AT5U",
+    "Operator Name": "Andre Box",
+    "Operator Permit Number": "",
+    "License Holder Name": "Andre Box",
+    "Application Date": "04/18/2018",
+    "Issue_Date": "06/25/2018",
+    "Reference Code": "P3AT5U",
+    "X": "3679374.08296",
+    "Y": "531003.24538",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07480112371594",
+     "29.954139158476046"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "20-RSTR-01535",
+    "Address": "2331 Nashville Ave",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "5",
+    "Guest Occupancy Limit": "10",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1HLQLY",
+    "Operator Name": "Shalondria Renee Simpson",
+    "Operator Permit Number": "20-OSTR-01534",
+    "License Holder Name": "Shalondria Renee Simpson",
+    "Application Date": "01/22/2020",
+    "Issue_Date": "02/11/2022",
+    "Reference Code": "1HLQLY",
+    "X": "3667098.6",
+    "Y": "524778.92",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.11377147730084",
+     "29.937389299793487"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-17560",
+    "Address": "1936 Jena St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=2KQCJX",
+    "Operator Name": "Rodney Montague",
+    "Operator Permit Number": "",
+    "License Holder Name": "Rodney Montague",
+    "Application Date": "09/27/2018",
+    "Issue_Date": "10/18/2018",
+    "Reference Code": "2KQCJX",
+    "X": "3670256.53",
+    "Y": "522191.58",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.10388929764052",
+     "29.93018214990808"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-09742",
+    "Address": "334 Carondelet St Unit 203",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=DS75F8",
+    "Operator Name": "Ireal Balderas",
+    "Operator Permit Number": "",
+    "License Holder Name": "334 Carondelet LLC",
+    "Application Date": "05/09/2018",
+    "Issue_Date": "06/25/2018",
+    "Reference Code": "DS75F8",
+    "X": "3680494.11",
+    "Y": "529874.76",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0713037773146",
+     "29.95100233077812"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07072",
+    "Address": "212 Loyola Ave Unit 202",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=GSWNUY",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "GSWNUY",
+    "X": "3679371.46939",
+    "Y": "530942.21037",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07481149307962",
+     "29.9539714116842"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1702 Dante St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=RPYBH5",
+    "Operator Name": "Ali Alherimi",
+    "Operator Permit Number": "",
+    "License Holder Name": "GIG",
+    "Application Date": "06/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "RPYBH5",
+    "X": "3662615.17779",
+    "Y": "530231.4576",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.1277448948636",
+     "29.95251248468285"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-04662",
+    "Address": "723 Esplanade Ave",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "4",
+    "Guest Occupancy Limit": "8",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=3LY5UQ",
+    "Operator Name": "Sherry Hall",
+    "Operator Permit Number": "",
+    "License Holder Name": "Sherry Hall",
+    "Application Date": "05/19/2018",
+    "Issue_Date": "06/07/2018",
+    "Reference Code": "3LY5UQ",
+    "X": "3683962.31",
+    "Y": "534635.57",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06018593594716",
+     "29.9639874410503"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07064",
+    "Address": "212 Loyola Ave Unit 1011",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=UECNWU",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "UECNWU",
+    "X": "3679454.94191",
+    "Y": "531016.50343",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07454534385748",
+     "29.954173171387733"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-06505",
+    "Address": "800 Common St Unit 311",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=3AJSVW",
+    "Operator Name": "Jade Newman",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jade Newman",
+    "Application Date": "04/04/2017",
+    "Issue_Date": "07/05/2017",
+    "Reference Code": "3AJSVW",
+    "X": "3680534.24455",
+    "Y": "530465.33894",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07115651183263",
+     "29.952625008386836"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 708",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=QBCYUS",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nancy Allen",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "QBCYUS",
+    "X": "3680491.90154",
+    "Y": "530485.35982",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07128951563313",
+     "29.952681341488674"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-13393",
+    "Address": "2533 St Thomas St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=XH44YN",
+    "Operator Name": "Diane Calhoun",
+    "Operator Permit Number": "",
+    "License Holder Name": "Diane Calhoun",
+    "Application Date": "06/26/2018",
+    "Issue_Date": "06/28/2018",
+    "Reference Code": "XH44YN",
+    "X": "3678590.72",
+    "Y": "519689.43",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07766615475511",
+     "29.923053538577413"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07056",
+    "Address": "800 Common St Unit 605",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=BYFTCE",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "BYFTCE",
+    "X": "3680524.11067",
+    "Y": "530502.26707",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07118722566528",
+     "29.952726855227194"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-00494",
+    "Address": "107 Winthrop Pl",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=YX675L",
+    "Operator Name": "Lekenja Smothers",
+    "Operator Permit Number": "",
+    "License Holder Name": "Lekenja Smothers",
+    "Application Date": "01/08/2019",
+    "Issue_Date": "01/08/2019",
+    "Reference Code": "YX675L",
+    "X": "3677713.53",
+    "Y": "543929.75",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0795978819492",
+     "29.98973266591262"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-05851",
+    "Address": "332 Walnut St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=78Z7AC",
+    "Operator Name": "Dawn Shepherd",
+    "Operator Permit Number": "",
+    "License Holder Name": "Aleta Ostlund",
+    "Application Date": "07/01/2018",
+    "Issue_Date": "08/02/2018",
+    "Reference Code": "78Z7AC",
+    "X": "3661943.43533",
+    "Y": "522276.52927",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.13012971869031",
+     "29.930658377298798"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 307",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=TUVCYJ",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "stay Alfred, Inc.",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "TUVCYJ",
+    "X": "3680543.91",
+    "Y": "530494.1",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07112499233963",
+     "29.952703798849548"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 910",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=Z1UQLZ",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "stay Alfred, Inc.",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "Z1UQLZ",
+    "X": "3680474.87",
+    "Y": "530496.13",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07134291902013",
+     "29.952711471644342"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-15157",
+    "Address": "212 Loyola Ave Unit 1006",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=TRKNGB",
+    "Operator Name": "Gordon Winters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Gordon Winters",
+    "Application Date": "07/19/2017",
+    "Issue_Date": "07/19/2017",
+    "Reference Code": "TRKNGB",
+    "X": "3679420.13635",
+    "Y": "531035.39166",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0746545906718",
+     "29.954226158984238"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "620 Gallier St",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=YX6VZU",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Robert Tillotson",
+    "Application Date": "05/03/2018",
+    "Issue_Date": "",
+    "Reference Code": "YX6VZU",
+    "X": "3690011.15888",
+    "Y": "533968.94714",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.04110802783784",
+     "29.961968272937902"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-04689",
+    "Address": "1238 N Robertson St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=RAC7S7",
+    "Operator Name": "Michael Henderson",
+    "Operator Permit Number": "",
+    "License Holder Name": "Michael Henderson",
+    "Application Date": "03/13/2019",
+    "Issue_Date": "04/29/2019",
+    "Reference Code": "RAC7S7",
+    "X": "3681476.38",
+    "Y": "536135.43",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06798396607056",
+     "29.968187256192994"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07065",
+    "Address": "212 Loyola Ave Unit 911",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=6JKZZU",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "6JKZZU",
+    "X": "3679442.09474",
+    "Y": "531011.69453",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07458607686162",
+     "29.954160336601173"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07066",
+    "Address": "212 Loyola Ave Unit 504",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=EX5LZ7",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "EX5LZ7",
+    "X": "3679376.77685",
+    "Y": "530987.96307",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07479314751302",
+     "29.954097055912218"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "837 Gravier ST",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=PSZBT1",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Iesha Tate",
+    "Application Date": "12/14/2017",
+    "Issue_Date": "",
+    "Reference Code": "PSZBT1",
+    "X": "3680203.48085",
+    "Y": "530400.81671",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07220315643882",
+     "29.952457608131713"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-14781",
+    "Address": "1702 Dante",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=AK81FD",
+    "Operator Name": "Ali Alherimi",
+    "Operator Permit Number": "",
+    "License Holder Name": "Ali Alherimi",
+    "Application Date": "07/11/2017",
+    "Issue_Date": "07/21/2017",
+    "Reference Code": "AK81FD",
+    "X": "3662615.17779",
+    "Y": "530231.4576",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.1277448948636",
+     "29.95251248468285"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 810",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=W753QG",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "stay Alfred, Inc.",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "W753QG",
+    "X": "3680456.92",
+    "Y": "530449.69",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07140121198648",
+     "29.952584320883652"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07062",
+    "Address": "212 Loyola Ave Unit 1205",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=MSRG77",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "MSRG77",
+    "X": "3679426.97135",
+    "Y": "531053.53248",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07463237924479",
+     "29.95427583367921"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-04241",
+    "Address": "814 Alvar St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=VYZVM1",
+    "Operator Name": "Heather Rose",
+    "Operator Permit Number": "",
+    "License Holder Name": "Ryan Prymoski",
+    "Application Date": "03/20/2018",
+    "Issue_Date": "04/19/2018",
+    "Reference Code": "VYZVM1",
+    "X": "3691212.06",
+    "Y": "534380.44",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.03730108505005",
+     "29.963062440473163"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 401",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=H6THYP",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Roxanne and Chris Rogers",
+    "Application Date": "05/11/2017",
+    "Issue_Date": "",
+    "Reference Code": "H6THYP",
+    "X": "3680540.94463",
+    "Y": "530514.76134",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07113363700222",
+     "29.952760700385102"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-12970",
+    "Address": "2324 Milan St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=XQ8B2Y",
+    "Operator Name": "Amanda Conger",
+    "Operator Permit Number": "",
+    "License Holder Name": "Amanda S Conger",
+    "Application Date": "06/19/2018",
+    "Issue_Date": "06/19/2018",
+    "Reference Code": "XQ8B2Y",
+    "X": "3671286.36",
+    "Y": "523631.92",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.10058936451975",
+     "29.934112198002502"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-07055",
+    "Address": "800 Common St Unit 611",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=UPJ3YV",
+    "Operator Name": "Jessie Muse",
+    "Operator Permit Number": "",
+    "License Holder Name": "Jessie Muse",
+    "Application Date": "04/10/2018",
+    "Issue_Date": "04/10/2018",
+    "Reference Code": "UPJ3YV",
+    "X": "3680518.33647",
+    "Y": "530487.49018",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07120597193665",
+     "29.952686398647852"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-00660",
+    "Address": "1227 Annette St",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=N2882B",
+    "Operator Name": "Debbie Easley",
+    "Operator Permit Number": "",
+    "License Holder Name": "Stephen Agans",
+    "Application Date": "01/10/2018",
+    "Issue_Date": "01/10/2018",
+    "Reference Code": "N2882B",
+    "X": "3683164.82",
+    "Y": "536385",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0626430685716",
+     "29.968822110956058"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-15154",
+    "Address": "212 Loyola Ave Unit 903",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=THLEQF",
+    "Operator Name": "Gordon Winters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Gordon Winters",
+    "Application Date": "07/19/2017",
+    "Issue_Date": "07/19/2017",
+    "Reference Code": "THLEQF",
+    "X": "3679410.38879",
+    "Y": "531024.79594",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07468573707136",
+     "29.954197318739006"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-06538",
+    "Address": "800 Common ST Unit 907",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=NUQ2UW",
+    "Operator Name": "ANDREW DUNCAN",
+    "Operator Permit Number": "",
+    "License Holder Name": "Andy Duncan",
+    "Application Date": "04/04/2017",
+    "Issue_Date": "07/14/2017",
+    "Reference Code": "NUQ2UW",
+    "X": "3680538.36482",
+    "Y": "530497.63443",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07114237859074",
+     "29.95271368529755"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "515 General Taylor St",
+    "Permit Type": "Short Term Rental Commercial Owner",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1WNU61",
+    "Operator Name": "",
+    "Operator Permit Number": "",
+    "License Holder Name": "Reuther LLC",
+    "Application Date": "11/13/2020",
+    "Issue_Date": "",
+    "Reference Code": "1WNU61",
+    "X": "3673423.35",
+    "Y": "517826.95",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.09404116051056",
+     "29.918087007004104"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-08096",
+    "Address": "212 Loyola Ave Unit 904",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=5ZP21T",
+    "Operator Name": "Laveanca Box",
+    "Operator Permit Number": "",
+    "License Holder Name": "Laveanca Box",
+    "Application Date": "04/18/2018",
+    "Issue_Date": "04/18/2018",
+    "Reference Code": "5ZP21T",
+    "X": "3679412.6013",
+    "Y": "531024.66176",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07467875550684",
+     "29.954196882963117"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 711",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=6XGH1Y",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nancy Allen",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "6XGH1Y",
+    "X": "3680482.11631",
+    "Y": "530462.58029",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07132120518179",
+     "29.952619001804756"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "17STR-15159",
+    "Address": "212 Loyola Ave Unit 1109",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=K1U3QM",
+    "Operator Name": "Gordon Winters",
+    "Operator Permit Number": "",
+    "License Holder Name": "Gordon Winters",
+    "Application Date": "07/19/2017",
+    "Issue_Date": "07/19/2017",
+    "Reference Code": "K1U3QM",
+    "X": "3679414.81676",
+    "Y": "531048.80627",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07467092252044",
+     "29.95426320531686"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 607",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=F2TYBX",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "stay Alfred, Inc.",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "F2TYBX",
+    "X": "3680523.2",
+    "Y": "530500.09",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07119017687171",
+     "29.95272089660083"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-13393",
+    "Address": "2533 St Thomas St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=TVTFMY",
+    "Operator Name": "Diane Calhoun",
+    "Operator Permit Number": "",
+    "License Holder Name": "Diane Calhoun",
+    "Application Date": "05/29/2019",
+    "Issue_Date": "06/18/2019",
+    "Reference Code": "TVTFMY",
+    "X": "3678590.72",
+    "Y": "519689.43",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07766615475511",
+     "29.923053538577413"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1128 N White St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=WEV7ES",
+    "Operator Name": "Dominique Ranieri",
+    "Operator Permit Number": "21-OSTR-12390",
+    "License Holder Name": "Dominique Victoria Ranieri",
+    "Application Date": "05/12/2021",
+    "Issue_Date": "",
+    "Reference Code": "WEV7ES",
+    "X": "3677422.16",
+    "Y": "538990.06",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0806888146346",
+     "29.976158992995842"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "631 Elysian Fields Ave",
+    "Permit Type": "Short Term Rental Commercial Owner",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=XS1AS2",
+    "Operator Name": "Robrt Lynch",
+    "Operator Permit Number": "20-OSTR-00050",
+    "License Holder Name": "Elyf Holdings LLC",
+    "Application Date": "03/22/2021",
+    "Issue_Date": "",
+    "Reference Code": "XS1AS2",
+    "X": "3685242.33",
+    "Y": "534748.68",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.05613977583295",
+     "29.964259285791034"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "21-RSTR-01002",
+    "Address": "2377 N Villere St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "1",
+    "Guest Occupancy Limit": "2",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=VB6JCT",
+    "Operator Name": "Gregory Czymbor",
+    "Operator Permit Number": "21-OSTR-00814",
+    "License Holder Name": "Gregory Czymbor",
+    "Application Date": "09/24/2021",
+    "Issue_Date": "01/28/2022",
+    "Reference Code": "VB6JCT",
+    "X": "3686322.24",
+    "Y": "537556.99",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.05263039497129",
+     "29.97194801893935"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1616 Valmont St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=7T6H5U",
+    "Operator Name": "Dawn A Wheelahan",
+    "Operator Permit Number": "",
+    "License Holder Name": "Dawn A Wheelahan",
+    "Application Date": "10/22/2019",
+    "Issue_Date": "",
+    "Reference Code": "7T6H5U",
+    "X": "3667839.46",
+    "Y": "521537.39",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.11154164537186",
+     "29.92845442501185"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "21-RSTR-08057",
+    "Address": "1967 N Galvez St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Small Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=JUEV6S",
+    "Operator Name": "Wilner Elise Jr",
+    "Operator Permit Number": "21-OSTR-08056",
+    "License Holder Name": "Elise Wilner Jr",
+    "Application Date": "05/12/2021",
+    "Issue_Date": "06/23/2021",
+    "Reference Code": "JUEV6S",
+    "X": "3683434.48",
+    "Y": "539923.01",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06166746488364",
+     "29.978542182501286"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1205 Louisa St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=C6VEXF",
+    "Operator Name": "Cory Girard",
+    "Operator Permit Number": "20-OSTR-02575",
+    "License Holder Name": "Cory Girard",
+    "Application Date": "02/11/2020",
+    "Issue_Date": "",
+    "Reference Code": "C6VEXF",
+    "X": "3689711.17",
+    "Y": "536272.54",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.04197336094894",
+     "29.96831164664306"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "224 N St Patrick St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=5SBHYX",
+    "Operator Name": "Jason Feder",
+    "Operator Permit Number": "",
+    "License Holder Name": "Rachael B Kansas",
+    "Application Date": "05/07/2019",
+    "Issue_Date": "",
+    "Reference Code": "5SBHYX",
+    "X": "3669562.22",
+    "Y": "540305.32",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.1054683730214",
+     "29.980009438207755"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "20-RSTR-31098",
+    "Address": "5738 Cameron Blvd",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=6LVHQV",
+    "Operator Name": "DANIELLE KENT",
+    "Operator Permit Number": "20-OSTR-00084",
+    "License Holder Name": "Jeffrey F Kent",
+    "Application Date": "09/24/2021",
+    "Issue_Date": "02/11/2022",
+    "Reference Code": "6LVHQV",
+    "X": "3682332.79",
+    "Y": "554237.69",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06464642385971",
+     "30.01793601540163"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "4561 Veronese Rd",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "4",
+    "Guest Occupancy Limit": "8",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=BDZGU5",
+    "Operator Name": "RAYMOND ULLO",
+    "Operator Permit Number": "20-OSTR-22047",
+    "License Holder Name": "RAYMOND ULLO",
+    "Application Date": "04/08/2021",
+    "Issue_Date": "",
+    "Reference Code": "BDZGU5",
+    "X": "3763116.75",
+    "Y": "573996.08",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-89.80857631968863",
+     "30.069555879772984"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-13330",
+    "Address": "2026 Camp St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=BRXYEA",
+    "Operator Name": "Chris Genard",
+    "Operator Permit Number": "",
+    "License Holder Name": "Chris Genard",
+    "Application Date": "07/09/2019",
+    "Issue_Date": "07/09/2019",
+    "Reference Code": "BRXYEA",
+    "X": "3679111.18",
+    "Y": "522710.87",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07591860135784",
+     "29.931345818934012"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "20-RSTR-31098",
+    "Address": "5738 Cameron Blvd",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=HNJZY5",
+    "Operator Name": "DANIELLE KENT",
+    "Operator Permit Number": "20-OSTR-00084",
+    "License Holder Name": "Jeffrey F Kent",
+    "Application Date": "10/21/2020",
+    "Issue_Date": "02/11/2022",
+    "Reference Code": "HNJZY5",
+    "X": "3682332.79",
+    "Y": "554237.69",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06464642385971",
+     "30.01793601540163"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "526 Bourbon St Apt C",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=ME3KXC",
+    "Operator Name": "Bob Ellis",
+    "Operator Permit Number": "",
+    "License Holder Name": "KARNO 526 BOURBON",
+    "Application Date": "08/19/2019",
+    "Issue_Date": "",
+    "Reference Code": "ME3KXC",
+    "X": "3682011.15",
+    "Y": "532216.09",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06643199303608",
+     "29.957394164082533"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "18STR-19468",
+    "Address": "1500 Holiday Pl",
+    "Permit Type": "Temporary STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "4",
+    "Guest Occupancy Limit": "8",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=4TQX57",
+    "Operator Name": "Hung Nguyen",
+    "Operator Permit Number": "",
+    "License Holder Name": "Hung V Nguyen",
+    "Application Date": "11/19/2018",
+    "Issue_Date": "11/19/2018",
+    "Reference Code": "4TQX57",
+    "X": "3699028.42",
+    "Y": "525659.74",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.01293545541162",
+     "29.938838178844073"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "20-RSTR-02867",
+    "Address": "6121 Dauphine St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Small Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=ZCRH7M",
+    "Operator Name": "Roserita Walsh James",
+    "Operator Permit Number": "20-OSTR-02866",
+    "License Holder Name": "Roserita Walsh James",
+    "Application Date": "02/17/2020",
+    "Issue_Date": "01/28/2022",
+    "Reference Code": "ZCRH7M",
+    "X": "3699253.81",
+    "Y": "532246.74",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.01198406648426",
+     "29.956942970764104"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "20-RSTR-21045",
+    "Address": "3132 N Rampart St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=WP62PH",
+    "Operator Name": "Claude Tremblay",
+    "Operator Permit Number": "20-ostr-21043",
+    "License Holder Name": "Claude Tremblay",
+    "Application Date": "03/06/2020",
+    "Issue_Date": "05/11/2021",
+    "Reference Code": "WP62PH",
+    "X": "3689128.23",
+    "Y": "535471.16",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.04384278706601",
+     "29.96612618378496"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "842 Camp St Unit 7",
+    "Permit Type": "Short Term Rental Commercial Owner",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "5",
+    "Guest Occupancy Limit": "10",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=LE1ZFU",
+    "Operator Name": "Lee Ann Seaman",
+    "Operator Permit Number": "21-OSTR-05697",
+    "License Holder Name": "840 Camp LLC",
+    "Application Date": "04/07/2021",
+    "Issue_Date": "",
+    "Reference Code": "LE1ZFU",
+    "X": "3680821.02",
+    "Y": "527552.76",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07035237259717",
+     "29.944607705560184"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "526 Bourbon St Apt A",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=AKAYB6",
+    "Operator Name": "Bob Ellis",
+    "Operator Permit Number": "",
+    "License Holder Name": "KARNO 526 BOURBONREAL ESTATE  LLC , ET AL",
+    "Application Date": "08/02/2019",
+    "Issue_Date": "",
+    "Reference Code": "AKAYB6",
+    "X": "3681983.35",
+    "Y": "532236.7",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.0665190575101",
+     "29.957451679708406"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "863 Camp St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Large Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=BKRBZZ",
+    "Operator Name": "Johnson Clawson",
+    "Operator Permit Number": "20-OSTR-00396",
+    "License Holder Name": "Matthew Dick",
+    "Application Date": "12/08/2021",
+    "Issue_Date": "",
+    "Reference Code": "BKRBZZ",
+    "X": "3680623.85",
+    "Y": "527444.08",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07097867653296",
+     "29.94431484617028"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-15506",
+    "Address": "215 N Roman St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=X48J8Y",
+    "Operator Name": "Nichole Carlyle",
+    "Operator Permit Number": "",
+    "License Holder Name": "Nichole Carlyle",
+    "Application Date": "08/06/2019",
+    "Issue_Date": "08/21/2019",
+    "Reference Code": "X48J8Y",
+    "X": "3678134.74",
+    "Y": "533720.86",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07862050582123",
+     "29.96164905334667"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1429 Burgundy St Unit B",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Small Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=RUWS6S",
+    "Operator Name": "Kent Lattimore",
+    "Operator Permit Number": "20-OSTR-01034",
+    "License Holder Name": "Kent Lattimore",
+    "Application Date": "03/09/2020",
+    "Issue_Date": "",
+    "Reference Code": "RUWS6S",
+    "X": "3683299.28",
+    "Y": "535322.69",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06225565127109",
+     "29.965897024445567"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-11216",
+    "Address": "2312 Conti St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=CS3YXY",
+    "Operator Name": "Ashley Mohrmann",
+    "Operator Permit Number": "",
+    "License Holder Name": "Ashley Mohrmann",
+    "Application Date": "06/03/2019",
+    "Issue_Date": "06/04/2019",
+    "Reference Code": "CS3YXY",
+    "X": "3677294.64",
+    "Y": "535051.82",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.08122747685123",
+     "29.965334010585003"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "20-RSTR-26304",
+    "Address": "2427 Royal St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "5",
+    "Guest Occupancy Limit": "10",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1NYCWV",
+    "Operator Name": "Siv Christine Anderson Prince",
+    "Operator Permit Number": "20-OSTR-02860",
+    "License Holder Name": "Siv Christine Anderson Prince",
+    "Application Date": "07/09/2020",
+    "Issue_Date": "01/12/2021",
+    "Reference Code": "1NYCWV",
+    "X": "3686108.02",
+    "Y": "534976.76",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.05339795876834",
+     "29.964859866154306"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "22-RSTR-00015",
+    "Address": "2625 Banks St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=3REDFP",
+    "Operator Name": "Carter Kronlage",
+    "Operator Permit Number": "21-OSTR-03993",
+    "License Holder Name": "Collins Shay HR",
+    "Application Date": "01/05/2022",
+    "Issue_Date": "02/11/2022",
+    "Reference Code": "3REDFP",
+    "X": "3674910.77",
+    "Y": "534007.48",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.08879145240851",
+     "29.96253383936321"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "20-RSTR-01462",
+    "Address": "125 N Miro St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "4",
+    "Guest Occupancy Limit": "8",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=KKG86K",
+    "Operator Name": "Bianka Lebeouf",
+    "Operator Permit Number": "19-OSTR-70364",
+    "License Holder Name": "Lebeouf Larry M SR",
+    "Application Date": "01/21/2020",
+    "Issue_Date": "02/01/2022",
+    "Reference Code": "KKG86K",
+    "X": "3676840.73",
+    "Y": "534334.9",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.08268561433358",
+     "29.96337635402058"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "1223 Barracks St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "5",
+    "Guest Occupancy Limit": "10",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=VLHJWV",
+    "Operator Name": "Jimmie Taylor",
+    "Operator Permit Number": "21-OSTR-09005",
+    "License Holder Name": "Jimmie Taylor",
+    "Application Date": "12/01/2019",
+    "Issue_Date": "",
+    "Reference Code": "VLHJWV",
+    "X": "3682245.45",
+    "Y": "535498.81",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06557745713481",
+     "29.96641339560255"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "3131 Royal St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Small Unit",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=LFV8EN",
+    "Operator Name": "MICHELLE ROGOW",
+    "Operator Permit Number": "20-OSTR-01059",
+    "License Holder Name": "Michelle Rogow",
+    "Application Date": "01/21/2021",
+    "Issue_Date": "",
+    "Reference Code": "LFV8EN",
+    "X": "3688878.21",
+    "Y": "534468.57",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.04466794998261",
+     "29.963377145264456"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-03177",
+    "Address": "737 Eleonore St",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "5",
+    "Guest Occupancy Limit": "10",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=UW11A5",
+    "Operator Name": "Nidal Jaber",
+    "Operator Permit Number": "",
+    "License Holder Name": "737 Elenore LLC",
+    "Application Date": "02/18/2019",
+    "Issue_Date": "02/18/2019",
+    "Reference Code": "UW11A5",
+    "X": "3665250.75",
+    "Y": "519020.47",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.11979782687403",
+     "29.921609332087247"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "6202 S Rocheblave St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=1HU1FC",
+    "Operator Name": "Nicholas Robins",
+    "Operator Permit Number": "20-OSTR-01600",
+    "License Holder Name": "Nicholas A Robins",
+    "Application Date": "01/05/2021",
+    "Issue_Date": "",
+    "Reference Code": "1HU1FC",
+    "X": "3667586.46",
+    "Y": "528600.5",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.11210267712354",
+     "29.947883124600693"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "21-RSTR-15864",
+    "Address": "1969 N Galvez St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=AW4NRA",
+    "Operator Name": "Wilner Elise Jr",
+    "Operator Permit Number": "21-OSTR-08056",
+    "License Holder Name": "Elise Wilner Jr",
+    "Application Date": "09/15/2021",
+    "Issue_Date": "09/19/2021",
+    "Reference Code": "AW4NRA",
+    "X": "3683446.98",
+    "Y": "539922.46",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06162800459764",
+     "29.978540288738536"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-08956",
+    "Address": "436 Bermuda St",
+    "Permit Type": "Accessory STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "3",
+    "Guest Occupancy Limit": "6",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=KC1KQW",
+    "Operator Name": "Jenifer",
+    "Operator Permit Number": "",
+    "License Holder Name": "436 Bermuda St.",
+    "Application Date": "05/03/2019",
+    "Issue_Date": "05/28/2019",
+    "Reference Code": "KC1KQW",
+    "X": "3686705.81",
+    "Y": "530251.49",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.05167708833204",
+     "29.951848627509367"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "5444 Durham Dr",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Partial Unit",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "5",
+    "Guest Occupancy Limit": "10",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=QELA38",
+    "Operator Name": "Dinh John",
+    "Operator Permit Number": "20-OSTR-01727",
+    "License Holder Name": "Dinh John",
+    "Application Date": "08/27/2020",
+    "Issue_Date": "",
+    "Reference Code": "QELA38",
+    "X": "3704251.78",
+    "Y": "518895.44",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-89.99669396259378",
+     "29.9200721760684"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "19STR-05207",
+    "Address": "137 Carondelet St",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=RAQ2YG",
+    "Operator Name": "Guest Experience Team",
+    "Operator Permit Number": "",
+    "License Holder Name": "Sonder USA, Inc",
+    "Application Date": "03/20/2019",
+    "Issue_Date": "05/14/2019",
+    "Reference Code": "RAQ2YG",
+    "X": "3680657.9",
+    "Y": "530627.32",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07076042816988",
+     "29.95306665575653"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "800 Common St Unit 610",
+    "Permit Type": "Commercial STR",
+    "Residential Subtype": "N/A",
+    "Current Status": "Revoked",
+    "Expired": "Yes",
+    "Expiration Date": "",
+    "Bedroom Limit": "2",
+    "Guest Occupancy Limit": "4",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=6KMGV8",
+    "Operator Name": "Tiffany Walters",
+    "Operator Permit Number": "",
+    "License Holder Name": "stay Alfred, Inc.",
+    "Application Date": "05/08/2018",
+    "Issue_Date": "",
+    "Reference Code": "6KMGV8",
+    "X": "3680517.22",
+    "Y": "530484.9",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.07120958733239",
+     "29.952679310340894"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Permit Number": "",
+    "Address": "2061 Pelopidas St",
+    "Permit Type": "Short Term Rental Residential Owner",
+    "Residential Subtype": "Residential Small Unit",
+    "Current Status": "Revoked",
+    "Expired": "No",
+    "Expiration Date": "",
+    "Bedroom Limit": "",
+    "Guest Occupancy Limit": "",
+    "Link": "http://onestopapp.nola.gov/Redirect.aspx?SearchString=ZYKWUC",
+    "Operator Name": "Kennor Harrison",
+    "Operator Permit Number": "21-OSTR-20573",
+    "License Holder Name": "Kennor Harrison",
+    "Application Date": "12/20/2021",
+    "Issue_Date": "",
+    "Reference Code": "ZYKWUC",
+    "X": "3683162.82",
+    "Y": "548074.81",
+    "": ""
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "-90.06223985894235",
+     "30.000965032958245"
+    ]
+   }
+  }
+ ]
+}
